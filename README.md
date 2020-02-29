@@ -1,8 +1,11 @@
 # S6
 
 model00- Model without L1 and L2 regularisation
+
 model01- Model with L1 regularisation 
+
 model02- Model with L2 regularisation 
+
 model11- Model with L1 and L2 regularisation
 
 Graphs: 
